@@ -1,0 +1,7 @@
+{
+  "name": "Satemades Bottles - Premium Transparent Hydration",
+  "description": "A luxury e-commerce experience for Satemades Bottles, showcasing elegant, sustainable, and crystal-clear water bottles with a focus on purity and premium design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
